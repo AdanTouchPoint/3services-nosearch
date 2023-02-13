@@ -181,7 +181,7 @@ const MainForm = ({
                 name="zipCode"
                 onChange={handleChange}
                 required
-                maxLength="4"
+                maxLength="5"
               />
             </Form.Group>
             <Form.Group>
